@@ -1,0 +1,44 @@
+{
+    "datasets": [
+        { "name": "germeval", "train": true, "test": true },
+        { "name": "sb10k", "train": true, "test": true },
+        { "name": "PotTS", "train": true, "test": true },
+        { "name": "usage", "train": false, "test": false },
+        { "name": "filmstarts", "train": true, "test": true },
+        { "name": "scare", "train": false, "test": true },
+        { "name": "holidaycheck", "train": true, "test": true },
+        { "name": "leipzig-mixed-typical-2011", "train": false, "test": false },
+        { "name": "leipzig-newscrawl-2017", "train": false, "test": false },
+        { "name": "leipzig-deu-wikipedia-2016", "train": true, "test": true }
+    ],
+    "preprocessing": {
+        "use-cache": false,
+        "replace-smiley": true,
+        "max-line-length": 1024,
+        "replace-numbers-with-text": true,
+        "replace-nouns-with-tag": false,
+        "balance": "down"
+    },
+    "model": {
+        "train-file": "./modeldata/model.train",
+        "valid-file": "./modeldata/model.valid",
+        "model-path": "model/sentiment",
+        "quantize": false,
+        "print-confusion-matrix": false,
+        "fasttext": {
+            "epoch": 20,
+            "lr": 0.10,
+            "wordNgrams": 2,
+            "verbose": 2,
+            "minCount": 1,
+            "loss": "ns",
+            "neg": 5,
+            "lrUpdateRate": 100,
+            "thread": 16,
+            "ws": 5,
+            "dim": 100,
+            "pretrainedVectors": "model/sentiment.vector.new.d100.vec"
+        }
+    },
+    "evaluation": {}
+}

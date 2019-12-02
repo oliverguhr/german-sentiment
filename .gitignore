@@ -1,0 +1,8 @@
+__pycache__
+tmp/
+source-data/scare_v1.0.0_data/reviews
+fasttext/modeldata
+fasttext/model/sentiment.bin
+fasttext/model/sentiment.params
+fasttext/model/sentiment-cm.pdf
+
