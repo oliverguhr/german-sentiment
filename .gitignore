@@ -1,5 +1,8 @@
 __pycache__
 tmp/
+venv/
+bert/bert-base-german-cased/
+
 source-data/scare_v1.0.0_data/reviews
 fasttext/modeldata
 fasttext/model/sentiment.bin

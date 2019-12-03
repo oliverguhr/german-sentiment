@@ -1,4 +1,4 @@
-export bert_model=bert-base-german-cased
+export bert_model=./bert-base-german-cased
 export bert_model_output=../models/paper-no-scare-balanced/bert
 export dataset=../training-data/no-scare-balanced
 

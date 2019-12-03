@@ -302,7 +302,7 @@ def main():
 
     processor = processors[task_name]()
     num_labels = num_labels_task[task_name]
-    label_list = processor.get_labels()
+    label_list = processor.get_labels()  
 
     tokenizer = BertTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
 
@@ -313,10 +313,11 @@ def main():
         num_train_steps = int(
             len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
 
-    # Prepare model
+    # Prepare model    
     model = BertForSequenceClassification.from_pretrained(args.bert_model,
               cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
               num_labels = num_labels)
+    
     if args.fp16:
         model.half()
     model.to(device)

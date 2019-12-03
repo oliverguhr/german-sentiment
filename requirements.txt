@@ -4,9 +4,6 @@
 # fasttext/train.py: 6
 PyYAML == 3.13
 
-# bert/run_classifier.py: 325,345,346
-apex == 0.1
-
 # fasttext/test.py: 1
 # fasttext/train.py: 2
 fasttext == 0.9.1

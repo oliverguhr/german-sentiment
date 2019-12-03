@@ -1,11 +1,10 @@
-export bert_model=bert-base-german-cased
+export bert_model=./bert-base-german-cased
 export bert_model_output=tmp/no-scare-balanced-base-german-cased/
 export dataset=../training-data/no-scare-balanced
 
 echo train $bert_model_output 
 python3 run_classifier.py \
   --bert_model=$bert_model \
-  --fp16 \
   --task_name=sentiment \
   --do_train \
   --data_dir=$dataset \
@@ -24,5 +23,4 @@ python3 test.py \
   --data_dir=$dataset \
   --max_seq_length=256 \
   --eval_batch_size=100 \
-  --fp16
 exit
