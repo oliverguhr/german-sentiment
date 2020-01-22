@@ -1,0 +1,15 @@
+__pycache__
+tmp/
+venv/
+bert/bert-base-german-cased/
+
+source-data/holidaycheck
+source-data/filmstarts
+source-data/leipzig
+source-data/scare_v1.0.0_data/reviews
+fasttext/modeldata
+fasttext/model/sentiment.bin
+fasttext/model/sentiment.params
+fasttext/model/sentiment-cm.pdf
+
+source-data/holidaycheck/holidaycheck.clean.filtered.tsv
