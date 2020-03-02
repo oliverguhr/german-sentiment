@@ -98,7 +98,7 @@ def run(fastTextModel, printErrors=False):
 
     plt = printcm.plot_confusion_matrix(all_truth, all_prediction, classes=[
                                       "negative", "neutral", "positive"], normalize=True, title=title_description)                                          
-    plt.savefig("model/sentiment-cm.pdf")
+    plt.savefig("models/sentiment-cm.pdf")
 
     return table
 
