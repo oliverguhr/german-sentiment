@@ -14,8 +14,8 @@ unzip no-scare-balanced.zip -d ./training-data
 rm no-scare-balanced.zip
 
 #restore german bert vectors
-mkdir bert/bert-base-german-cased-test
-cd bert/bert-base-german-cased-test
+mkdir bert/bert-base-german-cased
+cd bert/bert-base-german-cased
 wget https://int-deepset-models-bert.s3.eu-central-1.amazonaws.com/pytorch/bert-base-german-cased-config.json -O bert_config.json
 wget https://int-deepset-models-bert.s3.eu-central-1.amazonaws.com/pytorch/bert-base-german-cased-vocab.txt -O vocab.txt
 wget https://int-deepset-models-bert.s3.eu-central-1.amazonaws.com/pytorch/bert-base-german-cased-pytorch_model.bin -O pytorch_model.bin
