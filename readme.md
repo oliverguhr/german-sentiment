@@ -14,7 +14,7 @@ The unprocessed data set can be obtained from [here (1.5 GB)](https://www2.htw-d
 
 ## Trained Models
 
-You can find our trained models for FastText and Bert in the [here 5 GB)](https://www2.htw-dresden.de/~guhr/dist/sentiment/models.zip) folder. 
+You can find our trained models for FastText and Bert in the [(here 5 GB)](https://www2.htw-dresden.de/~guhr/dist/sentiment/models.zip) folder. 
 
 
 
