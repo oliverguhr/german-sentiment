@@ -69,7 +69,7 @@ def run(fastTextModel, printErrors=False):
 
     model = FastTextTest(fastTextModel)    
     
-    data = readTestData("modeldata/model.test")
+    data = readTestData(tools.config()["model"]["test-file"])
     
     table = []        
 

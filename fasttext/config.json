@@ -22,6 +22,7 @@
     "model": {
         "train-file": "./modeldata/model.train",
         "valid-file": "./modeldata/model.valid",
+        "test-file": "./modeldata/model.test",
         "model-path": "models/sentiment",
         "quantize": false,
         "print-confusion-matrix": false,
