@@ -24,7 +24,7 @@ We recommend to install this project in a python virtual environment. To install
 
 ```bash
 pip3 install virtualenv
-virtualenv venv
+python3 -m venv ./venv
 source venv/bin/activate
 ```
 Make sure that you are using a recent python version by running "python -V ". You should at least run Python 3.6.
