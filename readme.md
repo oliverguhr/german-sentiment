@@ -1,7 +1,6 @@
 # Broad-Coverage German Sentiment Classification Model for Dialog Systems
 
-his repository contains the code and data for the Paper "Training a Broad-Coverage German Sentiment Classification Model for Dialog
-Systems"
+This repository contains the code and data for the Paper ["Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems"](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.201.pdf) published at LREC 2020.
 
 ## Data Sets
 
@@ -44,4 +43,23 @@ In order to reproduce the results, you need to download our models and data. We 
 
 ```bash
 sh download-models-and-data.sh
+```
+
+
+## Cite
+
+Please cite us if you found this useful:
+
+```
+@InProceedings{guhr-EtAl:2020:LREC,
+  author    = {Guhr, Oliver  and  Schumann, Anne-Kathrin  and  Bahrmann, Frank  and  Böhme, Hans Joachim},
+  title     = {Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {1620--1625},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.201}
+}
 ```
