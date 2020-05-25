@@ -4,18 +4,16 @@ This repository contains the code and data for the Paper ["Training a Broad-Cove
 
 ## Data Sets
 
-The data sets can be found in the [source-data](source-data/) folder. Due to legal requirements, we can not provide the SCARE data in this repository, but you can [obtain the data from the author directly](http://www.romanklinger.de/scare/).
+The data sets can be found in the [source-data](source-data/) folder. Due to legal requirements, we can not provide the SCARE data set in this repository, but you can [obtain the data from the author directly](http://www.romanklinger.de/scare/).
 
-The preprocessed data sets that we used to train our models can be obtained from [here (600 MB zip)](https://www2.htw-dresden.de/~guhr/dist/sentiment/no-scare-balanced.zip). This file does not contain all the training files, since we can not redistribute the *Scare* data set publicly. However, if you are interested in this data, please write a mail to oliver.guhr-at-htw-dresden.de.
+The preprocessed data sets that we used to train our models can be downloaded from [here (600 MB zip)](https://zenodo.org/record/3693810/files/no-scare-balanced.zip?download=1). This file does not contain all the training files, since we can not redistribute the *Scare* data set publicly. However, if you are interested in this data, please write a mail to oliver.guhr-at-htw-dresden.de.
 
-The unprocessed data set can be obtained from [here (1.5 GB)](https://www2.htw-dresden.de/~guhr/dist/sentiment/no-scare-balanced.zip), it contains all hotel and movie reviews, plus a set of neutral german texts.
+The unprocessed data set can be downloaded from [here (1.5 GB)](https://zenodo.org/record/3693810/files/sentiment-data-reviews-and-neutral.zip?download=1), it contains all hotel and movie reviews, plus a set of neutral german texts.
 
 
 ## Trained Models
 
-You can find our trained models for FastText and Bert in the [(here 5 GB)](https://www2.htw-dresden.de/~guhr/dist/sentiment/models.zip) folder. 
-
-
+You can download our trained models for FastText and Bert [here (6 GB)](https://zenodo.org/record/3693810/files/models.zip?download=1).
 
 ## Setup
 
