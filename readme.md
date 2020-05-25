@@ -50,7 +50,7 @@ sh download-models-and-data.sh
 
 ## Cite
 
-Please cite us if you found this useful:
+You can read the [paper here](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.201.pdf). Please cite us if you found this useful. 
 
 ```
 @InProceedings{guhr-EtAl:2020:LREC,
