@@ -2,6 +2,10 @@
 
 This repository contains the code and data for the Paper ["Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems"](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.201.pdf) published at LREC 2020.
 
+## Usage
+
+If you like to use the models for your own projects please head over to [this repository.](https://github.com/oliverguhr/german-sentiment-lib) It contains a Python package that provides a easy to use interface.
+
 ## Data Sets
 
 The data sets can be found in the [source-data](source-data/) folder. Due to legal requirements, we can not provide the SCARE data set in this repository, but you can [obtain the data from the author directly](http://www.romanklinger.de/scare/).
