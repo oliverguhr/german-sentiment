@@ -1,6 +1,6 @@
 # Broad-Coverage German Sentiment Classification Model for Dialog Systems
 
-This repository contains the code and data for the Paper ["Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems"](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.202.pdf) published at LREC 2020.
+This repository contains the code and data for the Paper ["Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems"](https://www.aclweb.org/anthology/2020.lrec-1.202.pdf) published at LREC 2020.
 
 ## Usage
 
@@ -50,7 +50,7 @@ sh download-models-and-data.sh
 
 ## Cite
 
-You can read the [paper here](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.202.pdf). Please cite us if you found this useful. 
+You can read the [paper here](https://www.aclweb.org/anthology/2020.lrec-1.202.pdf). Please cite us if you found this useful. 
 
 ```
 @InProceedings{guhr-EtAl:2020:LREC,
@@ -62,6 +62,6 @@ You can read the [paper here](http://www.lrec-conf.org/proceedings/lrec2020/pdf/
   address        = {Marseille, France},
   publisher      = {European Language Resources Association},
   pages     = {1620--1625},
-  url       = {https://www.aclweb.org/anthology/2020.lrec-1.201}
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.202/}
 }
 ```
