@@ -8,7 +8,7 @@ If you like to use the models for your own projects please head over to [this re
 
 ## Data Sets
 
-The data sets can be found in the [source-data](source-data/) folder. Due to legal requirements, we can not provide the SCARE data set in this repository, but you can [obtain the data from the author directly](http://www.romanklinger.de/scare/).
+The data sets can be downloaded from [here](https://zenodo.org/record/3693810/). Due to legal requirements, we can not provide the SCARE data set in this repository, but you can [obtain the data from the author directly](http://www.romanklinger.de/scare/).
 
 The preprocessed data sets that we used to train our models can be downloaded from [here (600 MB zip)](https://zenodo.org/record/3693810/files/no-scare-balanced.zip?download=1). This file does not contain all the training files, since we can not redistribute the *Scare* data set publicly. However, if you are interested in this data, please write a mail to oliver.guhr-at-htw-dresden.de.
 
