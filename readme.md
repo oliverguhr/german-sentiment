@@ -76,7 +76,7 @@ You can download our trained models for FastText and Bert [here (6 GB)](https://
 | [Leipzig Wikipedia Corpus 2016](https://wortschatz.uni-leipzig.de/de/download/german) |   **0.9983** |         0.9981 |
 | combined          |       0.9636 |     **0.9744** |
 
-Micro averaged $F_1$ scores for BERT trained on the balanced and unbalanced data set.
+Micro averaged F1 scores for BERT trained on the balanced and unbalanced data set.
 
 ### Fast Text
 
@@ -92,7 +92,7 @@ Micro averaged $F_1$ scores for BERT trained on the balanced and unbalanced data
 | [Leipzig Wikipedia Corpus 2016](https://wortschatz.uni-leipzig.de/de/download/german) |       0.9883 |     **0.9886** |
 | combined          |       0.9405 |     **0.9573** |
 
-Micro averaged $F_1$ scores for FastText trained on the balanced and
+Micro averaged F1 scores for FastText trained on the balanced and
 unbalanced.
 
 ## Setup
