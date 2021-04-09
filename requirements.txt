@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # fasttext/train.py: 6
-PyYAML == 5.1
+PyYAML == 5.4
 
 # fasttext/test.py: 1
 # fasttext/train.py: 2
