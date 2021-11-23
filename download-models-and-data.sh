@@ -1,15 +1,15 @@
 # models
-wget https://www2.htw-dresden.de/~guhr/dist/sentiment/models.zip
+wget https://zenodo.org/record/3693810/files/models.zip?download=1
 unzip models.zip -d ./models
 rm models.zip
 
 #unmodifyed data
-wget https://www2.htw-dresden.de/~guhr/dist/sentiment/sentiment-data-reviews-and-neutral.zip
+wget https://zenodo.org/record/3693810/files/sentiment-data-reviews-and-neutral.zip?download=1
 unzip sentiment-data-reviews-and-neutral.zip -d ./source-data
 rm sentiment-data-reviews-and-neutral.zip
 
 #training data
-wget https://www2.htw-dresden.de/~guhr/dist/sentiment/no-scare-balanced.zip
+wget https://zenodo.org/record/3693810/files/no-scare-balanced.zip?download=1
 unzip no-scare-balanced.zip -d ./training-data
 rm no-scare-balanced.zip
 
