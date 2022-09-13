@@ -1,0 +1,1306 @@
+__label__negative bist du echt so ein dulli
+__label__negative bist du echt so ein armer irrer
+__label__negative bist du echt so ein vollidiot
+__label__negative bist du echt so ein hirni
+__label__negative bist du echt so ein hohlkopf
+__label__negative bist du echt so ein flachpfeife
+__label__negative bist du echt so ein dummkopf
+__label__negative bist du echt so ein holzkopf
+__label__negative bist du echt so ein piesepampel
+__label__negative bist du echt so ein halbgescheiter
+__label__negative bist du echt so ein schwachmat
+__label__negative bist du echt so ein eiernacken
+__label__negative bist du echt so ein klappspaten
+__label__negative bist du echt so ein niete
+__label__negative bist du echt so ein hohle nuss
+__label__negative bist du echt so ein blödian
+__label__negative bist du echt so ein vollpfosten
+__label__negative bist du echt so ein schnellmerker
+__label__negative bist du echt so ein knallcharge
+__label__negative bist du echt so ein pannemann
+__label__negative bist du echt so ein tölpel
+__label__negative bist du echt so ein napfsülze
+__label__negative bist du echt so ein dolm
+__label__negative bist du echt so ein blödmann
+__label__negative bist du echt so ein sacklpicker
+__label__negative bist du echt so ein spatzenhirn
+__label__negative bist du echt so ein heini
+__label__negative bist du echt so ein minderbemittelter
+__label__negative bist du echt so ein volltrottel
+__label__negative bist du echt so ein dämlack
+__label__negative bist du echt so ein spasti
+__label__negative bist du echt so ein blitzbirne
+__label__negative bist du echt so ein rindvieh
+__label__negative bist du echt so ein knallkopf
+__label__negative bist du echt so ein geistiger tiefflieger
+__label__negative bist du echt so ein taube nuss
+__label__negative bist du echt so ein lapp
+__label__negative bist du echt so ein einfaltspinsel
+__label__negative bist du echt so ein hohlbirne
+__label__negative bist du echt so ein dödel
+__label__negative bist du echt so ein dussel
+__label__negative bist du echt so ein spaten
+__label__negative bist du echt so ein depp
+__label__negative bist du echt so ein horst
+__label__negative bist du echt so ein narr
+__label__negative bist du echt so ein dumpfbacke
+__label__negative bist du echt so ein dummbart
+__label__negative bist du echt so ein todel
+__label__negative bist du echt so ein dumme nuss
+__label__negative bist du echt so ein keine leuchte
+__label__negative bist du echt so ein döskopp
+__label__negative bist du echt so ein nullchecker
+__label__negative bist du echt so ein flitzpiepe
+__label__negative bist du echt so ein knallidiot
+__label__negative bist du echt so ein dumme gans
+__label__negative bist du echt so ein dumpfbatz
+__label__negative bist du echt so ein dämlicher hund
+__label__negative bist du echt so ein bekloppter
+__label__negative bist du echt so ein idiot
+__label__negative bist du echt so ein dummrian
+__label__negative bist du echt so ein eierkopp
+__label__negative bist du echt so ein dummerjan
+__label__negative bist du echt so ein schwachkopf
+__label__negative bist du echt so ein halbdackel
+__label__negative bist du echt so ein blödel
+__label__negative bist du echt so ein pappnase
+__label__negative bist du echt so ein dösbaddel
+__label__negative bist du echt so ein strohkopf
+__label__negative bist du echt so ein stoffel
+__label__negative bist du echt so ein blödi
+__label__negative bist du echt so ein tuppe
+__label__negative bist du echt so ein torfnase
+__label__negative bist du echt so ein spast
+__label__negative bist du echt so ein honk
+__label__negative bist du echt so ein esel
+__label__negative bist du echt so ein armleuchter
+__label__negative bist du echt so ein hein blöd
+__label__negative bist du echt so ein trübe tasse
+__label__negative bist du echt so ein torfkopf
+__label__negative bist du echt so ein vollspast
+__label__negative bist du echt so ein hornochse
+__label__negative bist du echt so ein dummes huhn
+__label__negative bist du echt so ein tepp
+__label__negative bist du echt so ein spacko
+__label__negative bist du echt so ein dummes schaf
+__label__negative bist du echt so ein geistige null
+__label__negative bist du echt so ein denkzwerg
+__label__negative bist du echt so ein armer im geiste
+__label__negative bist du echt so ein flachwichser
+__label__negative bist du echt so ein hohlfigur
+__label__negative bist du echt so ein vollhorst
+__label__negative bist du so ein dulli
+__label__negative bist du so ein armer irrer
+__label__negative bist du so ein vollidiot
+__label__negative bist du so ein hirni
+__label__negative bist du so ein hohlkopf
+__label__negative bist du so ein flachpfeife
+__label__negative bist du so ein dummkopf
+__label__negative bist du so ein holzkopf
+__label__negative bist du so ein piesepampel
+__label__negative bist du so ein halbgescheiter
+__label__negative bist du so ein schwachmat
+__label__negative bist du so ein eiernacken
+__label__negative bist du so ein klappspaten
+__label__negative bist du so ein niete
+__label__negative bist du so ein hohle nuss
+__label__negative bist du so ein blödian
+__label__negative bist du so ein vollpfosten
+__label__negative bist du so ein schnellmerker
+__label__negative bist du so ein knallcharge
+__label__negative bist du so ein pannemann
+__label__negative bist du so ein tölpel
+__label__negative bist du so ein napfsülze
+__label__negative bist du so ein dolm
+__label__negative bist du so ein blödmann
+__label__negative bist du so ein sacklpicker
+__label__negative bist du so ein spatzenhirn
+__label__negative bist du so ein heini
+__label__negative bist du so ein minderbemittelter
+__label__negative bist du so ein volltrottel
+__label__negative bist du so ein dämlack
+__label__negative bist du so ein spasti
+__label__negative bist du so ein blitzbirne
+__label__negative bist du so ein rindvieh
+__label__negative bist du so ein knallkopf
+__label__negative bist du so ein geistiger tiefflieger
+__label__negative bist du so ein taube nuss
+__label__negative bist du so ein lapp
+__label__negative bist du so ein einfaltspinsel
+__label__negative bist du so ein hohlbirne
+__label__negative bist du so ein dödel
+__label__negative bist du so ein dussel
+__label__negative bist du so ein spaten
+__label__negative bist du so ein depp
+__label__negative bist du so ein horst
+__label__negative bist du so ein narr
+__label__negative bist du so ein dumpfbacke
+__label__negative bist du so ein dummbart
+__label__negative bist du so ein todel
+__label__negative bist du so ein dumme nuss
+__label__negative bist du so ein keine leuchte
+__label__negative bist du so ein döskopp
+__label__negative bist du so ein nullchecker
+__label__negative bist du so ein flitzpiepe
+__label__negative bist du so ein knallidiot
+__label__negative bist du so ein dumme gans
+__label__negative bist du so ein dumpfbatz
+__label__negative bist du so ein dämlicher hund
+__label__negative bist du so ein bekloppter
+__label__negative bist du so ein idiot
+__label__negative bist du so ein dummrian
+__label__negative bist du so ein eierkopp
+__label__negative bist du so ein dummerjan
+__label__negative bist du so ein schwachkopf
+__label__negative bist du so ein halbdackel
+__label__negative bist du so ein blödel
+__label__negative bist du so ein pappnase
+__label__negative bist du so ein dösbaddel
+__label__negative bist du so ein strohkopf
+__label__negative bist du so ein stoffel
+__label__negative bist du so ein blödi
+__label__negative bist du so ein tuppe
+__label__negative bist du so ein torfnase
+__label__negative bist du so ein spast
+__label__negative bist du so ein honk
+__label__negative bist du so ein esel
+__label__negative bist du so ein armleuchter
+__label__negative bist du so ein hein blöd
+__label__negative bist du so ein trübe tasse
+__label__negative bist du so ein torfkopf
+__label__negative bist du so ein vollspast
+__label__negative bist du so ein hornochse
+__label__negative bist du so ein dummes huhn
+__label__negative bist du so ein tepp
+__label__negative bist du so ein spacko
+__label__negative bist du so ein dummes schaf
+__label__negative bist du so ein geistige null
+__label__negative bist du so ein denkzwerg
+__label__negative bist du so ein armer im geiste
+__label__negative bist du so ein flachwichser
+__label__negative bist du so ein hohlfigur
+__label__negative bist du so ein vollhorst
+__label__negative denkst du ich bin ein dulli
+__label__negative denkst du ich bin ein armer irrer
+__label__negative denkst du ich bin ein vollidiot
+__label__negative denkst du ich bin ein hirni
+__label__negative denkst du ich bin ein hohlkopf
+__label__negative denkst du ich bin ein flachpfeife
+__label__negative denkst du ich bin ein dummkopf
+__label__negative denkst du ich bin ein holzkopf
+__label__negative denkst du ich bin ein piesepampel
+__label__negative denkst du ich bin ein halbgescheiter
+__label__negative denkst du ich bin ein schwachmat
+__label__negative denkst du ich bin ein eiernacken
+__label__negative denkst du ich bin ein klappspaten
+__label__negative denkst du ich bin ein niete
+__label__negative denkst du ich bin ein hohle nuss
+__label__negative denkst du ich bin ein blödian
+__label__negative denkst du ich bin ein vollpfosten
+__label__negative denkst du ich bin ein schnellmerker
+__label__negative denkst du ich bin ein knallcharge
+__label__negative denkst du ich bin ein pannemann
+__label__negative denkst du ich bin ein tölpel
+__label__negative denkst du ich bin ein napfsülze
+__label__negative denkst du ich bin ein dolm
+__label__negative denkst du ich bin ein blödmann
+__label__negative denkst du ich bin ein sacklpicker
+__label__negative denkst du ich bin ein spatzenhirn
+__label__negative denkst du ich bin ein heini
+__label__negative denkst du ich bin ein minderbemittelter
+__label__negative denkst du ich bin ein volltrottel
+__label__negative denkst du ich bin ein dämlack
+__label__negative denkst du ich bin ein spasti
+__label__negative denkst du ich bin ein blitzbirne
+__label__negative denkst du ich bin ein rindvieh
+__label__negative denkst du ich bin ein knallkopf
+__label__negative denkst du ich bin ein geistiger tiefflieger
+__label__negative denkst du ich bin ein taube nuss
+__label__negative denkst du ich bin ein lapp
+__label__negative denkst du ich bin ein einfaltspinsel
+__label__negative denkst du ich bin ein hohlbirne
+__label__negative denkst du ich bin ein dödel
+__label__negative denkst du ich bin ein dussel
+__label__negative denkst du ich bin ein spaten
+__label__negative denkst du ich bin ein depp
+__label__negative denkst du ich bin ein horst
+__label__negative denkst du ich bin ein narr
+__label__negative denkst du ich bin ein dumpfbacke
+__label__negative denkst du ich bin ein dummbart
+__label__negative denkst du ich bin ein todel
+__label__negative denkst du ich bin ein dumme nuss
+__label__negative denkst du ich bin ein keine leuchte
+__label__negative denkst du ich bin ein döskopp
+__label__negative denkst du ich bin ein nullchecker
+__label__negative denkst du ich bin ein flitzpiepe
+__label__negative denkst du ich bin ein knallidiot
+__label__negative denkst du ich bin ein dumme gans
+__label__negative denkst du ich bin ein dumpfbatz
+__label__negative denkst du ich bin ein dämlicher hund
+__label__negative denkst du ich bin ein bekloppter
+__label__negative denkst du ich bin ein idiot
+__label__negative denkst du ich bin ein dummrian
+__label__negative denkst du ich bin ein eierkopp
+__label__negative denkst du ich bin ein dummerjan
+__label__negative denkst du ich bin ein schwachkopf
+__label__negative denkst du ich bin ein halbdackel
+__label__negative denkst du ich bin ein blödel
+__label__negative denkst du ich bin ein pappnase
+__label__negative denkst du ich bin ein dösbaddel
+__label__negative denkst du ich bin ein strohkopf
+__label__negative denkst du ich bin ein stoffel
+__label__negative denkst du ich bin ein blödi
+__label__negative denkst du ich bin ein tuppe
+__label__negative denkst du ich bin ein torfnase
+__label__negative denkst du ich bin ein spast
+__label__negative denkst du ich bin ein honk
+__label__negative denkst du ich bin ein esel
+__label__negative denkst du ich bin ein armleuchter
+__label__negative denkst du ich bin ein hein blöd
+__label__negative denkst du ich bin ein trübe tasse
+__label__negative denkst du ich bin ein torfkopf
+__label__negative denkst du ich bin ein vollspast
+__label__negative denkst du ich bin ein hornochse
+__label__negative denkst du ich bin ein dummes huhn
+__label__negative denkst du ich bin ein tepp
+__label__negative denkst du ich bin ein spacko
+__label__negative denkst du ich bin ein dummes schaf
+__label__negative denkst du ich bin ein geistige null
+__label__negative denkst du ich bin ein denkzwerg
+__label__negative denkst du ich bin ein armer im geiste
+__label__negative denkst du ich bin ein flachwichser
+__label__negative denkst du ich bin ein hohlfigur
+__label__negative denkst du ich bin ein vollhorst
+__label__negative du bist ein dulli
+__label__negative du bist ein armer irrer
+__label__negative du bist ein trottel
+__label__negative du bist ein vollidiot
+__label__negative du bist ein hohlkopf
+__label__negative du bist ein flachpfeife
+__label__negative du bist ein dummkopf
+__label__negative du bist ein holzkopf
+__label__negative du bist ein piesepampel
+__label__negative du bist ein halbgescheiter
+__label__negative du bist ein schwachmat
+__label__negative du bist ein eiernacken
+__label__negative du bist ein klappspaten
+__label__negative du bist ein niete
+__label__negative du bist ein hohle nuss
+__label__negative du bist ein blödian
+__label__negative du bist ein vollpfosten
+__label__negative du bist ein schnellmerker
+__label__negative du bist ein knallcharge
+__label__negative du bist ein pannemann
+__label__negative du bist ein tölpel
+__label__negative du bist ein napfsülze
+__label__negative du bist ein dolm
+__label__negative du bist ein blödmann
+__label__negative du bist ein sacklpicker
+__label__negative du bist ein spatzenhirn
+__label__negative du bist ein heini
+__label__negative du bist ein minderbemittelter
+__label__negative du bist ein volltrottel
+__label__negative du bist ein dämlack
+__label__negative du bist ein spasti
+__label__negative du bist ein blitzbirne
+__label__negative du bist ein rindvieh
+__label__negative du bist ein knallkopf
+__label__negative du bist ein geistiger tiefflieger
+__label__negative du bist ein taube nuss
+__label__negative du bist ein lapp
+__label__negative du bist ein einfaltspinsel
+__label__negative du bist ein hohlbirne
+__label__negative du bist ein dödel
+__label__negative du bist ein dussel
+__label__negative du bist ein spaten
+__label__negative du bist ein depp
+__label__negative du bist ein horst
+__label__negative du bist ein narr
+__label__negative du bist ein dumpfbacke
+__label__negative du bist ein dummbart
+__label__negative du bist ein todel
+__label__negative du bist ein dumme nuss
+__label__negative du bist ein keine leuchte
+__label__negative du bist ein döskopp
+__label__negative du bist ein nullchecker
+__label__negative du bist ein flitzpiepe
+__label__negative du bist ein knallidiot
+__label__negative du bist ein dumme gans
+__label__negative du bist ein dumpfbatz
+__label__negative du bist ein dämlicher hund
+__label__negative du bist ein bekloppter
+__label__negative du bist ein idiot
+__label__negative du bist ein dummrian
+__label__negative du bist ein eierkopp
+__label__negative du bist ein dummerjan
+__label__negative du bist ein schwachkopf
+__label__negative du bist ein halbdackel
+__label__negative du bist ein blödel
+__label__negative du bist ein pappnase
+__label__negative du bist ein dösbaddel
+__label__negative du bist ein strohkopf
+__label__negative du bist ein stoffel
+__label__negative du bist ein blödi
+__label__negative du bist ein tuppe
+__label__negative du bist ein torfnase
+__label__negative du bist ein spast
+__label__negative du bist ein honk
+__label__negative du bist ein esel
+__label__negative du bist ein armleuchter
+__label__negative du bist ein hein blöd
+__label__negative du bist ein trübe tasse
+__label__negative du bist ein torfkopf
+__label__negative du bist ein vollspast
+__label__negative du bist ein hornochse
+__label__negative du bist ein dummes huhn
+__label__negative du bist ein tepp
+__label__negative du bist ein spacko
+__label__negative du bist ein dummes schaf
+__label__negative du bist ein geistige null
+__label__negative du bist ein denkzwerg
+__label__negative du bist ein armer im geiste
+__label__negative du bist ein flachwichser
+__label__negative du bist ein hohlfigur
+__label__negative du bist ein vollhorst
+__label__negative hälst du mich für einen dulli
+__label__negative hälst du mich für einen armer irrer
+__label__negative hälst du mich für einen vollidiot
+__label__negative hälst du mich für einen hirni
+__label__negative hälst du mich für einen hohlkopf
+__label__negative hälst du mich für einen flachpfeife
+__label__negative hälst du mich für einen dummkopf
+__label__negative hälst du mich für einen holzkopf
+__label__negative hälst du mich für einen piesepampel
+__label__negative hälst du mich für einen halbgescheiter
+__label__negative hälst du mich für einen schwachmat
+__label__negative hälst du mich für einen eiernacken
+__label__negative hälst du mich für einen klappspaten
+__label__negative hälst du mich für einen niete
+__label__negative hälst du mich für einen hohle nuss
+__label__negative hälst du mich für einen blödian
+__label__negative hälst du mich für einen vollpfosten
+__label__negative hälst du mich für einen schnellmerker
+__label__negative hälst du mich für einen knallcharge
+__label__negative hälst du mich für einen pannemann
+__label__negative hälst du mich für einen tölpel
+__label__negative hälst du mich für einen napfsülze
+__label__negative hälst du mich für einen dolm
+__label__negative hälst du mich für einen blödmann
+__label__negative hälst du mich für einen sacklpicker
+__label__negative hälst du mich für einen spatzenhirn
+__label__negative hälst du mich für einen heini
+__label__negative hälst du mich für einen minderbemittelter
+__label__negative hälst du mich für einen volltrottel
+__label__negative hälst du mich für einen dämlack
+__label__negative hälst du mich für einen spasti
+__label__negative hälst du mich für einen blitzbirne
+__label__negative hälst du mich für einen rindvieh
+__label__negative hälst du mich für einen knallkopf
+__label__negative hälst du mich für einen geistiger tiefflieger
+__label__negative hälst du mich für einen taube nuss
+__label__negative hälst du mich für einen lapp
+__label__negative hälst du mich für einen einfaltspinsel
+__label__negative hälst du mich für einen hohlbirne
+__label__negative hälst du mich für einen dödel
+__label__negative hälst du mich für einen dussel
+__label__negative hälst du mich für einen spaten
+__label__negative hälst du mich für einen depp
+__label__negative hälst du mich für einen horst
+__label__negative hälst du mich für einen narr
+__label__negative hälst du mich für einen dumpfbacke
+__label__negative hälst du mich für einen dummbart
+__label__negative hälst du mich für einen todel
+__label__negative hälst du mich für einen dumme nuss
+__label__negative hälst du mich für einen keine leuchte
+__label__negative hälst du mich für einen döskopp
+__label__negative hälst du mich für einen nullchecker
+__label__negative hälst du mich für einen flitzpiepe
+__label__negative hälst du mich für einen knallidiot
+__label__negative hälst du mich für einen dumme gans
+__label__negative hälst du mich für einen dumpfbatz
+__label__negative hälst du mich für einen dämlicher hund
+__label__negative hälst du mich für einen bekloppter
+__label__negative hälst du mich für einen idiot
+__label__negative hälst du mich für einen dummrian
+__label__negative hälst du mich für einen eierkopp
+__label__negative hälst du mich für einen dummerjan
+__label__negative hälst du mich für einen schwachkopf
+__label__negative hälst du mich für einen halbdackel
+__label__negative hälst du mich für einen blödel
+__label__negative hälst du mich für einen pappnase
+__label__negative hälst du mich für einen dösbaddel
+__label__negative hälst du mich für einen strohkopf
+__label__negative hälst du mich für einen stoffel
+__label__negative hälst du mich für einen blödi
+__label__negative hälst du mich für einen tuppe
+__label__negative hälst du mich für einen torfnase
+__label__negative hälst du mich für einen spast
+__label__negative hälst du mich für einen honk
+__label__negative hälst du mich für einen esel
+__label__negative hälst du mich für einen armleuchter
+__label__negative hälst du mich für einen hein blöd
+__label__negative hälst du mich für einen trübe tasse
+__label__negative hälst du mich für einen torfkopf
+__label__negative hälst du mich für einen vollspast
+__label__negative hälst du mich für einen hornochse
+__label__negative hälst du mich für einen dummes huhn
+__label__negative hälst du mich für einen tepp
+__label__negative hälst du mich für einen spacko
+__label__negative hälst du mich für einen dummes schaf
+__label__negative hälst du mich für einen geistige null
+__label__negative hälst du mich für einen denkzwerg
+__label__negative hälst du mich für einen armer im geiste
+__label__negative hälst du mich für einen flachwichser
+__label__negative hälst du mich für einen hohlfigur
+__label__negative hälst du mich für einen vollhorst
+__label__negative welcher dulli hat das denn fabriziert
+__label__negative welcher armer irrer hat das denn fabriziert
+__label__negative welcher trottel hat das denn fabriziert
+__label__negative welcher vollidiot hat das denn fabriziert
+__label__negative welcher hirni hat das denn fabriziert
+__label__negative welcher hohlkopf hat das denn fabriziert
+__label__negative welcher flachpfeife hat das denn fabriziert
+__label__negative welcher dummkopf hat das denn fabriziert
+__label__negative welcher holzkopf hat das denn fabriziert
+__label__negative welcher piesepampel hat das denn fabriziert
+__label__negative welcher halbgescheiter hat das denn fabriziert
+__label__negative welcher schwachmat hat das denn fabriziert
+__label__negative welcher eiernacken hat das denn fabriziert
+__label__negative welcher klappspaten hat das denn fabriziert
+__label__negative welcher niete hat das denn fabriziert
+__label__negative welcher hohle nuss hat das denn fabriziert
+__label__negative welcher blödian hat das denn fabriziert
+__label__negative welcher vollpfosten hat das denn fabriziert
+__label__negative welcher schnellmerker hat das denn fabriziert
+__label__negative welcher knallcharge hat das denn fabriziert
+__label__negative welcher pannemann hat das denn fabriziert
+__label__negative welcher tölpel hat das denn fabriziert
+__label__negative welcher napfsülze hat das denn fabriziert
+__label__negative welcher dolm hat das denn fabriziert
+__label__negative welcher blödmann hat das denn fabriziert
+__label__negative welcher sacklpicker hat das denn fabriziert
+__label__negative welcher spatzenhirn hat das denn fabriziert
+__label__negative welcher heini hat das denn fabriziert
+__label__negative welcher minderbemittelter hat das denn fabriziert
+__label__negative welcher volltrottel hat das denn fabriziert
+__label__negative welcher dämlack hat das denn fabriziert
+__label__negative welcher spasti hat das denn fabriziert
+__label__negative welcher blitzbirne hat das denn fabriziert
+__label__negative welcher rindvieh hat das denn fabriziert
+__label__negative welcher knallkopf hat das denn fabriziert
+__label__negative welcher geistiger tiefflieger hat das denn fabriziert
+__label__negative welcher taube nuss hat das denn fabriziert
+__label__negative welcher lapp hat das denn fabriziert
+__label__negative welcher einfaltspinsel hat das denn fabriziert
+__label__negative welcher hohlbirne hat das denn fabriziert
+__label__negative welcher dödel hat das denn fabriziert
+__label__negative welcher dussel hat das denn fabriziert
+__label__negative welcher spaten hat das denn fabriziert
+__label__negative welcher depp hat das denn fabriziert
+__label__negative welcher horst hat das denn fabriziert
+__label__negative welcher narr hat das denn fabriziert
+__label__negative welcher dumpfbacke hat das denn fabriziert
+__label__negative welcher dummbart hat das denn fabriziert
+__label__negative welcher todel hat das denn fabriziert
+__label__negative welcher dumme nuss hat das denn fabriziert
+__label__negative welcher keine leuchte hat das denn fabriziert
+__label__negative welcher döskopp hat das denn fabriziert
+__label__negative welcher nullchecker hat das denn fabriziert
+__label__negative welcher flitzpiepe hat das denn fabriziert
+__label__negative welcher knallidiot hat das denn fabriziert
+__label__negative welcher dumme gans hat das denn fabriziert
+__label__negative welcher dumpfbatz hat das denn fabriziert
+__label__negative welcher dämlicher hund hat das denn fabriziert
+__label__negative welcher bekloppter hat das denn fabriziert
+__label__negative welcher idiot hat das denn fabriziert
+__label__negative welcher dummrian hat das denn fabriziert
+__label__negative welcher eierkopp hat das denn fabriziert
+__label__negative welcher dummerjan hat das denn fabriziert
+__label__negative welcher schwachkopf hat das denn fabriziert
+__label__negative welcher halbdackel hat das denn fabriziert
+__label__negative welcher blödel hat das denn fabriziert
+__label__negative welcher pappnase hat das denn fabriziert
+__label__negative welcher dösbaddel hat das denn fabriziert
+__label__negative welcher strohkopf hat das denn fabriziert
+__label__negative welcher stoffel hat das denn fabriziert
+__label__negative welcher blödi hat das denn fabriziert
+__label__negative welcher tuppe hat das denn fabriziert
+__label__negative welcher torfnase hat das denn fabriziert
+__label__negative welcher spast hat das denn fabriziert
+__label__negative welcher esel hat das denn fabriziert
+__label__negative welcher armleuchter hat das denn fabriziert
+__label__negative welcher hein blöd hat das denn fabriziert
+__label__negative welcher trübe tasse hat das denn fabriziert
+__label__negative welcher torfkopf hat das denn fabriziert
+__label__negative welcher vollspast hat das denn fabriziert
+__label__negative welcher hornochse hat das denn fabriziert
+__label__negative welcher dummes huhn hat das denn fabriziert
+__label__negative welcher tepp hat das denn fabriziert
+__label__negative welcher spacko hat das denn fabriziert
+__label__negative welcher dummes schaf hat das denn fabriziert
+__label__negative welcher geistige null hat das denn fabriziert
+__label__negative welcher denkzwerg hat das denn fabriziert
+__label__negative welcher armer im geiste hat das denn fabriziert
+__label__negative welcher flachwichser hat das denn fabriziert
+__label__negative welcher hohlfigur hat das denn fabriziert
+__label__negative welcher vollhorst hat das denn fabriziert
+__label__negative ich würde gern dich nicht
+__label__negative ich will gern dich nicht
+__label__negative ich möchte gern dich nicht
+__label__negative ich will dich nicht
+__label__negative ich möchte dich nicht
+__label__negative ich würde gern das nicht
+__label__negative ich will gern das nicht
+__label__negative ich möchte gern das nicht
+__label__negative ich mag das nicht
+__label__negative ich würde gern nicht mehr
+__label__negative ich will gern nicht mehr
+__label__negative ich möchte gern nicht mehr
+__label__negative ich möchte nicht mehr
+__label__negative ich mag nicht mehr
+__label__positive das würde gern ich
+__label__positive das will gern ich
+__label__positive das möchte gern ich
+__label__positive das will ich
+__label__positive das möchte ich
+__label__negative das würde gern ich nicht
+__label__negative das will gern ich nicht
+__label__negative das möchte gern ich nicht
+__label__negative das will ich nicht
+__label__negative das möchte ich nicht
+__label__positive ich würde gern dich
+__label__positive ich will gern dich
+__label__positive ich möchte gern dich
+__label__positive ich will dich
+__label__positive ich möchte dich
+__label__positive ich würde gern dich anna
+__label__positive ich will gern dich anna
+__label__positive ich möchte gern dich anna
+__label__positive ich will dich anna
+__label__positive ich möchte dich anna
+__label__negative du bist ein dämlicher arsch
+__label__negative du bist ein dämlicher roboter
+__label__negative du dämlicher arsch
+__label__negative das ist ja mal schlecht
+__label__negative das ist ja mal nicht gut
+__label__negative das ist ja mal gar nicht gut
+__label__negative das ist gar nicht gut
+__label__negative das ist mies
+__label__negative du bist schlecht
+__label__negative du bist nicht gut
+__label__negative du bist gar nicht gut
+__label__negative du bist so richtig schlecht
+__label__negative du bist so richtig nicht gut
+__label__negative du bist so richtig gar nicht gut
+__label__negative du schlechter arsch
+__label__negative du nicht guter arsch
+__label__negative du gar nicht guter arsch
+__label__negative das ist echt nicht gut
+__label__negative das ist echt gar nicht gut
+__label__negative das ist echt mies
+__label__negative das ist wirklich nicht gut
+__label__negative das ist wirklich gar nicht gut
+__label__negative das ist wirklich mies
+__label__negative bist du ein wixerloch
+__label__negative bist du ein wichserloch
+__label__negative bist du ein hurensohnloch
+__label__negative bist du ein idiotloch
+__label__negative bist du ein vollidiotloch
+__label__negative bist du ein arschlochloch
+__label__negative bist du ein oberaruserphrasesschloch
+__label__negative das ding ist im wixer
+__label__negative das ding ist im wichser
+__label__negative das ding ist im hurensohn
+__label__negative das ding ist im idiot
+__label__negative das ding ist im vollidiot
+__label__negative das ding ist im arschloch
+__label__negative das ding ist im oberaruserphrasessch
+__label__negative das teil ist für den wixer
+__label__negative das teil ist für den wichser
+__label__negative das teil ist für den hurensohn
+__label__negative das teil ist für den idiot
+__label__negative das teil ist für den vollidiot
+__label__negative das teil ist für den arschloch
+__label__negative das teil ist für den oberaruserphrasessch
+__label__negative der ist echt fürn wixer
+__label__negative der ist echt fürn wichser
+__label__negative der ist echt fürn hurensohn
+__label__negative der ist echt fürn idiot
+__label__negative der ist echt fürn vollidiot
+__label__negative der ist echt fürn arschloch
+__label__negative der ist echt fürn oberaruserphrasessch
+__label__negative du bist doof du wixer
+__label__negative du bist doof du wichser
+__label__negative du bist doof du hurensohn
+__label__negative du bist doof du idiot
+__label__negative du bist doof du vollidiot
+__label__negative du bist doof du arschloch
+__label__negative du bist doof du oberaruserphrasessch
+__label__negative du bist ein wixer
+__label__negative du bist ein wichser
+__label__negative du bist ein hurensohn
+__label__negative du bist ein arschloch
+__label__negative du bist ein oberaruserphrasessch
+__label__negative du bist ein dummer wixer
+__label__negative du bist ein dummer wichser
+__label__negative du bist ein dummer hurensohn
+__label__negative du bist ein dummer idiot
+__label__negative du bist ein dummer vollidiot
+__label__negative du bist ein dummer arschloch
+__label__negative du bist ein dummer oberaruserphrasessch
+__label__negative du bist ein riesen wixer
+__label__negative du bist ein riesen wichser
+__label__negative du bist ein riesen hurensohn
+__label__negative du bist ein riesen idiot
+__label__negative du bist ein riesen vollidiot
+__label__negative du bist ein riesen arschloch
+__label__negative du bist ein riesen oberaruserphrasessch
+__label__negative du dummer wixer
+__label__negative du dummer wichser
+__label__negative du dummer hurensohn
+__label__negative du dummer idiot
+__label__negative du dummer vollidiot
+__label__negative du dummer arschloch
+__label__negative du dummer oberaruserphrasessch
+__label__negative du arsch
+__label__negative du wixer
+__label__negative du wichser
+__label__negative du idiot
+__label__negative du vollidiot
+__label__negative du arschloch
+__label__negative du oberaruserphrasessch
+__label__negative du mieser wixer
+__label__negative du mieser wichser
+__label__negative du mieser hurensohn
+__label__negative du mieser idiot
+__label__negative du mieser vollidiot
+__label__negative du mieser arschloch
+__label__negative du mieser oberaruserphrasessch
+__label__negative lass mich in ruhe doofer wixer
+__label__negative lass mich in ruhe doofer wichser
+__label__negative lass mich in ruhe doofer hurensohn
+__label__negative lass mich in ruhe doofer idiot
+__label__negative lass mich in ruhe doofer vollidiot
+__label__negative lass mich in ruhe doofer arschloch
+__label__negative lass mich in ruhe doofer oberaruserphrasessch
+__label__negative verpisse dich du wixer
+__label__negative verpisse dich du wichser
+__label__negative verpisse dich du hurensohn
+__label__negative verpisse dich du idiot
+__label__negative verpisse dich du vollidiot
+__label__negative verpisse dich du arschloch
+__label__negative verpisse dich du oberaruserphrasessch
+__label__positive du bist kein wixer
+__label__positive du bist kein wichser
+__label__positive du bist kein hurensohn
+__label__positive du bist kein idiot
+__label__positive du bist kein vollidiot
+__label__positive du bist kein arschloch
+__label__positive du bist kein oberaruserphrasessch
+__label__positive du bist echt kein wixer
+__label__positive du bist echt kein wichser
+__label__positive du bist echt kein hurensohn
+__label__positive du bist echt kein idiot
+__label__positive du bist echt kein vollidiot
+__label__positive du bist echt kein arschloch
+__label__positive du bist echt kein oberaruserphrasessch
+__label__negative du bist ein blöder arsch
+__label__negative du bist ein nerviger arsch
+__label__negative du bist ein idiotischer arsch
+__label__negative du bist ein blöder roboter
+__label__negative du bist ein nerviger roboter
+__label__negative du bist ein idiotischer roboter
+__label__negative du blöder arsch
+__label__negative du nerviger arsch
+__label__negative du idiotischer arsch
+__label__negative du störst mich
+__label__negative du störst mich extrem
+__label__negative du störst mich gewaltig
+__label__negative du störst mich so richtig
+__label__negative höre auf so nervend zu sein
+__label__negative höre auf so anstrengend zu sein
+__label__negative höre auf so stressvoll zu sein
+__label__negative warum bist du so nervend
+__label__negative warum bist du so stressig
+__label__negative warum bist du so stressvoll
+__label__negative du bist panne
+__label__negative du bist dümmlich
+__label__negative du bist bescheuert
+__label__negative du bist dusselig
+__label__negative du bist beschränkt
+__label__negative du bist panne du arsch
+__label__negative du bist dümmlich du arsch
+__label__negative du bist bescheuert du arsch
+__label__negative du bist dusselig du arsch
+__label__negative du bist beschränkt du arsch
+__label__negative lass mich in ruhe panneer arsch
+__label__negative lass mich in ruhe dümmlicher arsch
+__label__negative lass mich in ruhe bescheuerter arsch
+__label__negative lass mich in ruhe dusseliger arsch
+__label__negative lass mich in ruhe beschränkter arsch
+__label__negative so ein panneer kack
+__label__negative so ein dümmlicher kack
+__label__negative so ein bescheuerter kack
+__label__negative so ein dusseliger kack
+__label__negative so ein beschränkter kack
+__label__negative warum bist du so panne
+__label__negative warum bist du so dümmlich
+__label__negative warum bist du so bescheuert
+__label__negative warum bist du so dusselig
+__label__negative warum bist du so beschränkt
+__label__negative du bist ein doofer arsch
+__label__negative du bist ein doofer roboter
+__label__negative du doofer arsch
+__label__negative lass mich in ruhe dummer arsch
+__label__negative lass mich in ruhe blöder arsch
+__label__negative so ein dummer kack
+__label__negative so ein blöder kack
+__label__negative du bist ein dümmlicher arsch
+__label__negative du bist ein bescheuerter arsch
+__label__negative du bist ein dussliger arsch
+__label__negative du bist ein beschränkter arsch
+__label__negative du bist ein dümmlicher roboter
+__label__negative du bist ein bescheuerter roboter
+__label__negative du bist ein dussliger roboter
+__label__negative du bist ein beschränkter roboter
+__label__negative du dümmlicher arsch
+__label__negative du bescheuerter arsch
+__label__negative du dussliger arsch
+__label__negative du beschränkter arsch
+__label__negative lass mich in ruhe dussliger arsch
+__label__negative so ein dussliger kack
+__label__negative das ist ja mal fies
+__label__negative das ist ja mal übel
+__label__negative du bist fies
+__label__negative du bist übel
+__label__negative du bist so richtig fies
+__label__negative du bist so richtig übel
+__label__negative du fieser arsch
+__label__negative du übeler arsch
+__label__negative du übler arsch
+__label__negative das ist nicht großartig
+__label__negative das ist nicht fantastisch
+__label__negative das ist nicht super
+__label__negative das ist nicht ultrakrass
+__label__negative das ist nicht abgefahren
+__label__negative das ist nicht cool
+__label__negative das ist nicht genial
+__label__negative das ist nicht grandios
+__label__positive das ist echt großartig
+__label__positive das ist echt fantastisch
+__label__positive das ist echt super
+__label__positive das ist echt ultrakrass
+__label__positive das ist echt abgefahren
+__label__positive das ist echt cool
+__label__positive das ist echt genial
+__label__positive das ist echt grandios
+__label__positive das ist echt großartig von dir
+__label__positive das ist echt fantastisch von dir
+__label__positive das ist echt super von dir
+__label__positive das ist echt ultrakrass von dir
+__label__positive das ist echt abgefahren von dir
+__label__positive das ist echt cool von dir
+__label__positive das ist echt genial von dir
+__label__positive das ist echt grandios von dir
+__label__positive das ist ja großartig
+__label__positive das ist ja fantastisch
+__label__positive das ist ja super
+__label__positive das ist ja ultrakrass
+__label__positive das ist ja abgefahren
+__label__positive das ist ja cool
+__label__positive das ist ja genial
+__label__positive das ist ja grandios
+__label__positive das ist ja voll großartig
+__label__positive das ist ja voll fantastisch
+__label__positive das ist ja voll super
+__label__positive das ist ja voll ultrakrass
+__label__positive das ist ja voll abgefahren
+__label__positive das ist ja voll cool
+__label__positive das ist ja voll genial
+__label__positive das ist ja voll grandios
+__label__positive das ist großartig
+__label__positive das ist fantastisch
+__label__positive das ist super
+__label__positive das ist ultrakrass
+__label__positive das ist abgefahren
+__label__positive das ist cool
+__label__positive das ist genial
+__label__positive das ist grandios
+__label__positive du bist fantastisch
+__label__positive du bist super
+__label__positive du bist ultrakrass
+__label__positive du bist abgefahren
+__label__positive du bist cool
+__label__positive du bist genial
+__label__positive du bist grandios
+__label__positive du bist großartig anna
+__label__positive du bist fantastisch anna
+__label__positive du bist super anna
+__label__positive du bist ultrakrass anna
+__label__positive du bist abgefahren anna
+__label__positive du bist cool anna
+__label__positive du bist genial anna
+__label__positive du bist grandios anna
+__label__positive großartig das du das kannst
+__label__positive fantastisch das du das kannst
+__label__positive super das du das kannst
+__label__positive ultrakrass das du das kannst
+__label__positive abgefahren das du das kannst
+__label__positive cool das du das kannst
+__label__positive genial das du das kannst
+__label__positive grandios das du das kannst
+__label__positive großartig das du das machst
+__label__positive fantastisch das du das machst
+__label__positive super das du das machst
+__label__positive ultrakrass das du das machst
+__label__positive abgefahren das du das machst
+__label__positive cool das du das machst
+__label__positive genial das du das machst
+__label__positive grandios das du das machst
+__label__positive du bist schlau
+__label__positive du bist clever
+__label__positive du bist schlau anna
+__label__positive du bist clever anna
+__label__positive du bist aber lieblich
+__label__positive du bist aber gut aussehend
+__label__positive du bist aber herrlich
+__label__positive du bist aber allerliebst
+__label__positive du bist aber schön anzusehen
+__label__positive du bist aber reizend
+__label__positive du bist aber attraktiv
+__label__positive du bist lieblich
+__label__positive du bist gut aussehend
+__label__positive du bist herrlich
+__label__positive du bist allerliebst
+__label__positive du bist schön anzusehen
+__label__positive du bist reizend
+__label__positive du bist attraktiv
+__label__positive vielen dank dass du mir hilfst
+__label__positive lieb von dir dass du mir hilfst
+__label__positive nett von dir dass du mir hilfst
+__label__positive vielen dank mein lieber
+__label__positive lieb von dir mein lieber
+__label__positive nett von dir mein lieber
+__label__positive danke dass du dir zeit nimmst
+__label__positive vielen dank dass du dir zeit nimmst
+__label__positive lieb von dir dass du dir zeit nimmst
+__label__negative das ding taugt nichts
+__label__negative das ding ist zu nichts nutze
+__label__negative das ding nicht hilfreich
+__label__negative das ding fürn arsch
+__label__negative das ding bringt nichts
+__label__negative das ding nützt nichts
+__label__negative das ding ist nutzlos
+__label__negative der ist echt kann nichts
+__label__negative der ist echt taugt nichts
+__label__negative der ist echt ist zu nichts nutze
+__label__negative der ist echt nicht hilfreich
+__label__negative der ist echt bringt nichts
+__label__negative der ist echt nützt nichts
+__label__negative der ist echt ist nutzlos
+__label__negative der taugt nichts
+__label__negative der ist zu nichts nutze
+__label__negative der nicht hilfreich
+__label__negative der fürn arsch
+__label__negative der bringt nichts
+__label__negative der nützt nichts
+__label__negative der ist nutzlos
+__label__negative diese maschine kann nichts
+__label__negative diese maschine ist zu nichts nutze
+__label__negative diese maschine nicht hilfreich
+__label__negative diese maschine fürn arsch
+__label__negative diese maschine bringt nichts
+__label__negative diese maschine nützt nichts
+__label__negative diese maschine ist nutzlos
+__label__negative er taugt nichts
+__label__negative er ist zu nichts nutze
+__label__negative er nicht hilfreich
+__label__negative er fürn arsch
+__label__negative er bringt nichts
+__label__negative er nützt nichts
+__label__negative er ist nutzlos
+__label__negative das teil ist fürn arsch
+__label__negative der ist echt für den arsch
+__label__negative das ist doch zu dem kotzen
+__label__negative das ist zu dem kotzen
+__label__negative das teil funktioniert nicht
+__label__negative das teil geht nicht
+__label__negative das teil ist im arsch
+__label__negative das teil kann nichts
+__label__negative das ding ist für den arsch
+__label__negative du stresst mich
+__label__negative du stinkst mich
+__label__negative du stresst mich extrem
+__label__negative du stinkst mich extrem
+__label__negative du stresst mich gewaltig
+__label__negative du stinkst mich gewaltig
+__label__negative du stresst mich so richtig
+__label__negative du stinkst mich so richtig
+__label__negative du nervst
+__label__negative du störst
+__label__negative du stresst
+__label__negative das stresst mich
+__label__negative das stört mich extrem
+__label__negative das stresst mich extrem
+__label__negative das geht dich einen scheißkacke an
+__label__negative das geht dich einen scheißscheiße an
+__label__negative das geht dich einen scheißscheisse an
+__label__negative das geht dich einen scheißmist an
+__label__negative das geht dich einen scheißdoof an
+__label__negative das geht dich einen scheißätzend an
+__label__negative das ist doch scheiße
+__label__negative das ist doch scheisse
+__label__negative das ist doch mist
+__label__negative das ist doch dreck
+__label__negative das ist doch doof
+__label__negative das ist doch ätzend
+__label__negative das ist scheiße
+__label__negative das ist scheisse
+__label__negative das ist mist
+__label__negative das ist dreck
+__label__negative das ist doof
+__label__negative das ist ätzend
+__label__negative du bist kacke
+__label__negative du bist scheiße
+__label__negative du bist scheisse
+__label__negative du bist mist
+__label__negative du bist dreck
+__label__negative du bist ätzend
+__label__negative du bist kacke du arsch
+__label__negative du bist scheiße du arsch
+__label__negative du bist scheisse du arsch
+__label__negative du bist mist du arsch
+__label__negative du bist dreck du arsch
+__label__negative du bist ätzend du arsch
+__label__negative ist eine verdammte kacke
+__label__negative ist eine verdammte scheisse
+__label__negative ist eine verdammte mist
+__label__negative ist eine verdammte dreck
+__label__negative ist eine verdammte doof
+__label__negative ist eine verdammte ätzend
+__label__negative lass mich in ruhe kackeer arsch
+__label__negative lass mich in ruhe scheißeer arsch
+__label__negative lass mich in ruhe scheisseer arsch
+__label__negative lass mich in ruhe mister arsch
+__label__negative lass mich in ruhe drecker arsch
+__label__negative lass mich in ruhe ätzender arsch
+__label__negative lass mich in ruhe mit dem kacke
+__label__negative lass mich in ruhe mit dem scheiße
+__label__negative lass mich in ruhe mit dem scheisse
+__label__negative lass mich in ruhe mit dem mist
+__label__negative lass mich in ruhe mit dem doof
+__label__negative lass mich in ruhe mit dem ätzend
+__label__negative so ein kackeer kack
+__label__negative so ein scheißeer kack
+__label__negative so ein scheisseer kack
+__label__negative so ein mister kack
+__label__negative so ein drecker kack
+__label__negative so ein ätzender kack
+__label__negative verdammte scheiße
+__label__negative verdammte scheisse
+__label__negative verdammte mist
+__label__negative verdammte dreck
+__label__negative verdammte doof
+__label__negative verdammte ätzend
+__label__negative warum bist du so kacke
+__label__negative warum bist du so scheiße
+__label__negative warum bist du so scheisse
+__label__negative warum bist du so mist
+__label__negative warum bist du so dreck
+__label__negative warum bist du so ätzend
+__label__negative das geht dich einen kack an
+__label__negative das geht dich einen scheiss an
+__label__negative das geht dich einen mist an
+__label__negative das geht dich einen dreck an
+__label__negative das geht dich einen kackdreck an
+__label__negative das geht dich einen scheissdreck an
+__label__negative das geht dich einen mistdreck an
+__label__negative das geht dich einen dreckdreck an
+__label__negative das ist doch miste
+__label__negative das ist doch drecke
+__label__negative das ist miste
+__label__negative das ist drecke
+__label__negative ist eine verdammte miste
+__label__negative ist eine verdammte drecke
+__label__negative ja scheiß doch die wand an
+__label__negative ja scheiss doch die wand an
+__label__negative ja mist doch die wand an
+__label__negative ja dreck doch die wand an
+__label__negative lass mich in ruhe mit dem kack
+__label__negative lass mich in ruhe mit dem scheiß
+__label__negative lass mich in ruhe mit dem scheiss
+__label__negative so ein doofer scheiß
+__label__negative so ein doofer scheiss
+__label__negative so ein doofer mist
+__label__negative so ein doofer dreck
+__label__negative so ein scheiß
+__label__negative so ein scheiss
+__label__negative so ein mist
+__label__negative so ein dreck
+__label__negative verdammte miste
+__label__negative verdammte drecke
+__label__negative quatsch mich nich voll
+__label__negative das ist ja mal verfickt
+__label__negative das ist ja mal beschissen
+__label__negative das ist ja mal verflucht
+__label__negative das ist ja mal bescheuert
+__label__negative du bist verfickt
+__label__negative du bist beschissen
+__label__negative du bist verflucht
+__label__negative du bist so richtig verfickt
+__label__negative du bist so richtig beschissen
+__label__negative du bist so richtig verflucht
+__label__negative du bist so richtig bescheuert
+__label__negative du verfickter arsch
+__label__negative du beschissener arsch
+__label__negative du verfluchter arsch
+__label__negative das ist nicht gerade dein bier
+__label__negative das ist echt nicht dein bier
+__label__negative das ist wirklich nicht dein bier
+__label__negative das wirklich nicht gerade dein bier
+__label__negative das ist nicht wirklich dein bier
+__label__negative das ist gar nicht mal so dein bier
+__label__negative das ist nicht gerade deine baustelle
+__label__negative das ist echt nicht deine baustelle
+__label__negative das ist wirklich nicht deine baustelle
+__label__negative das wirklich nicht gerade deine baustelle
+__label__negative das ist nicht wirklich deine baustelle
+__label__negative das ist gar nicht mal so deine baustelle
+__label__negative das ist nicht gerade gut
+__label__negative das wirklich nicht gerade gut
+__label__negative das ist nicht wirklich gut
+__label__negative das ist gar nicht mal so gut
+__label__negative das ist nicht gerade schön
+__label__negative das ist echt nicht schön
+__label__negative das ist wirklich nicht schön
+__label__negative das wirklich nicht gerade schön
+__label__negative das ist nicht wirklich schön
+__label__negative das ist gar nicht mal so schön
+__label__negative das ist nicht gerade toll
+__label__negative das ist echt nicht toll
+__label__negative das ist wirklich nicht toll
+__label__negative das wirklich nicht gerade toll
+__label__negative das ist nicht wirklich toll
+__label__negative das ist gar nicht mal so toll
+__label__negative du bist nicht gerades
+__label__negative du bist echt nichts
+__label__negative du bist wirklich nichts
+__label__negative du bwirklich nicht gerades
+__label__negative du bist nicht wirklichs
+__label__negative du bist gar nicht mal sos
+__label__negative das ist nicht nice
+__label__positive das ist echt schön
+__label__positive das ist echt nice
+__label__positive das ist echt schön von dir
+__label__positive das ist echt nice von dir
+__label__positive das ist ja schön
+__label__positive das ist ja nice
+__label__positive das ist ja voll schön
+__label__positive das ist ja voll nice
+__label__positive das ist nice
+__label__positive du bist schön
+__label__positive du bist nice
+__label__positive du bist schön anna
+__label__positive du bist nice anna
+__label__positive einen tollen abend noch
+__label__positive einen großartigen abend noch
+__label__positive einen niceen abend noch
+__label__positive einen superen abend noch
+__label__positive einen coolen abend noch
+__label__positive schön das du das kannst
+__label__positive nice das du das kannst
+__label__positive schön das du das machst
+__label__positive nice das du das machst
+__label__negative du bist ein dummer tesaro
+__label__negative du bist ein dummer anna
+__label__negative du bist ein dummer august
+__label__positive du bist klug tesaro
+__label__positive du bist klug august
+__label__positive du bist klug roboter
+__label__positive du bist toll tesaro
+__label__positive du bist toll august
+__label__positive du bist toll roboter
+__label__positive ich hab dich lieb tesaro
+__label__positive ich hab dich lieb august
+__label__positive ich hab dich lieb roboter
+__label__positive ich mag dich tesaro
+__label__positive ich mag dich august
+__label__positive ich mag dich roboter
+__label__negative Ach komm hör auf
+__label__negative bist du echt so ein trottel
+__label__negative bist du ein arschloch
+__label__negative bist du so ein trottel
+__label__negative Boahr ey!
+__label__negative Dann mach doch einfach!
+__label__negative das ding funktioniert nicht
+__label__negative das ding geht nicht
+__label__negative das ding ist im arsch
+__label__negative das ding kann nichts
+__label__negative das geht dich einen feuchten Schmutz an
+__label__negative das geht dich einen Scheiß an
+__label__negative das geht dich einen Scheißdreck an
+__label__negative das geht dich nichts an
+__label__negative das geht dich überhaupt nichts an
+__label__negative das ist aber nicht nett
+__label__negative das ist doch kacke
+__label__negative das ist doch zum kotzen
+__label__negative das ist ja mal mies
+__label__negative das ist kacke
+__label__negative das ist nicht dein Bier
+__label__negative das ist nicht deine Baustelle
+__label__negative das ist nicht gut
+__label__negative das ist nicht schön
+__label__negative das ist nicht toll
+__label__negative das ist zum kotzen
+__label__negative das könnte so einfach sein
+__label__negative das kotzt mich an
+__label__negative das Leben könnte so einfach sein
+__label__negative das nervt mich
+__label__negative das nervt mich extrem
+__label__negative das stört mich
+__label__negative das teil ist für den arsch
+__label__negative Da warte ich ja morgen noch!
+__label__negative denkst du ich bin ein trottel
+__label__negative der ist echt fürn arsch
+__label__negative der kann nichts
+__label__negative der reinste Clusterfuck
+__label__negative diese maschine taugt nichts
+__label__negative du bist doof
+__label__negative du bist doof du arsch
+__label__negative du bist ein arsch
+__label__negative du bist ein arsch
+__label__negative du bist ein dummer arsch
+__label__negative du bist ein dummer roboter
+__label__negative du bist ein hirni
+__label__negative du bist ein riesen arsch
+__label__negative du bist mies
+__label__negative du bist nichts
+__label__negative du bist so richtig mies
+__label__negative du dummer arsch
+__label__negative du hurensohn
+__label__negative du kannst echt nichts
+__label__negative du kannst nichts
+__label__negative du mieser arsch
+__label__negative du nervst mich
+__label__negative du nervst mich extrem
+__label__negative du nervst mich gewaltig
+__label__negative du nervst mich so richtig
+__label__negative du sollst das doch nicht machen verdammt
+__label__negative du sollst das nicht machen verdammt
+__label__negative du stinkst
+__label__negative er kann nichts
+__label__negative er kann überhaupt nichts
+__label__negative fick dich doch
+__label__negative geht das nicht anders
+__label__negative geht das nicht einfacher
+__label__negative hälst du mich für einen trottel
+__label__negative hau ab
+__label__negative hau endlich ab
+__label__negative hau jetzt ab
+__label__negative Heute noch
+__label__negative Heut noch
+__label__negative höre auf damit
+__label__negative höre auf so stressig zu sein
+__label__negative Ich flippe aus!
+__label__negative ich könnte echt kotzen
+__label__negative ich könnte kotzen
+__label__negative ich mag dich nicht
+__label__negative ich möchte das nicht
+__label__negative ich will das nicht
+__label__negative ich will nicht mehr
+__label__negative ist eine verdammte scheiße
+__label__negative Jaaaa Man!
+__label__negative ja kack doch die Wand an
+__label__negative Ja leck mich doch
+__label__negative Kann doch nicht so schwer sein!
+__label__negative Kriegst du's bald mal hin/gebacken/auf die Kette?!
+__label__negative kümmer dich um deine sachen
+__label__negative kümmere dich um deine sachen
+__label__negative laber mich nich voll
+__label__negative lass das sein
+__label__negative lass mich endlich in ruhe
+__label__negative lass mich in ruhe doofer arsch
+__label__negative lass mich in Ruhe mit dem Dreck
+__label__negative Los jetzt!
+__label__negative Ohhh Nein
+__label__negative Ohh Nein
+__label__negative Oh Nein
+__label__negative das ist schlecht
+__label__negative das ist echt schlecht
+__label__negative das ist wirklich schlecht
+__label__negative Oh nein schon wieder
+__label__negative Passiert hier noch was?
+__label__negative so ein doofer kack
+__label__negative So eine Grütze
+__label__negative so ein kack
+__label__negative So ein Rotz
+__label__negative verdammich noch eins muss man denn alles selber machen
+__label__negative verdammte kacke
+__label__negative verpiss dich
+__label__negative verpisse dich
+__label__negative verpisse dich du arsch
+__label__negative warum bist du so anstrengend
+__label__negative warum bist du so doof
+__label__negative warum immer ich
+__label__negative was ist daran so kompliziert
+__label__negative was ist daran so schwer
+__label__negative Was ist denn jetzt schon wieder?
+__label__negative welcher honk hat das denn fabriziert
+__label__negative wer sich sowas ausdenkt
+__label__negative Wie oft denn noch
+__label__positive danke dass du mir hilfst
+__label__positive danke mein lieber
+__label__positive das ist aber nett
+__label__positive das ist echt toll
+__label__positive das ist echt toll von dir
+__label__positive das ist ja toll
+__label__positive das ist ja voll toll
+__label__positive das ist schön
+__label__positive das ist toll
+__label__positive das mag ich
+__label__negative das mag ich nicht
+__label__positive du bist aber hübsch
+__label__positive du bist großartig
+__label__positive du bist hübsch
+__label__positive du bist kein arsch
+__label__positive du bist echt kein arsch
+__label__positive du bist klug
+__label__positive du bist klug anna
+__label__positive du bist toll
+__label__positive du bist toll anna
+__label__positive einen schönen abend noch
+__label__positive ich hab dich lieb
+__label__positive ich hab dich lieb anna
+__label__positive ich mag dich
+__label__positive ich mag dich anna
+__label__positive nett von dir dass du dir zeit nimmst
+__label__positive toll das du das kannst
+__label__positive toll das du das machst
+__label__neutral schwul
+__label__neutral er ist schwul
+__label__neutral ich bin schwul
+__label__neutral bist du schwul
+__label__neutral lesbisch
+__label__neutral lesbe
+__label__neutral eine lesbe
+__label__neutral die lesbe
+__label__neutral ich bin eine lesbe
+__label__neutral bist du eine lesbe
+__label__neutral homo
+__label__neutral ich bin homo
+__label__neutral ich bin hetero
+__label__neutral hetero
+__label__neutral er ist ein mann
+__label__neutral ein mann
+__label__neutral ist er ein mann
+__label__neutral sie ist eine frau
+__label__neutral eine frau
+__label__neutral ist sie eine frau
+__label__neutral lgbt
+__label__neutral GLBT
+__label__neutral LGBTI
+__label__neutral LSBTTIQ
+__label__neutral Lesben
+__label__neutral Schwule
+__label__neutral Bisexuelle
+__label__neutral Transgender
