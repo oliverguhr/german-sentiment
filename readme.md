@@ -1,5 +1,9 @@
 # Broad-Coverage German Sentiment Classification Model for Dialog Systems
 
+<p>
+<a href="https://console.tiyaro.ai/explore/oliverguhr-german-sentiment-bert"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 This repository contains the code and data for the Paper ["Training a Broad-Coverage German Sentiment Classification Model for Dialog Systems"](https://www.aclweb.org/anthology/2020.lrec-1.202.pdf) published at LREC 2020.
 
 ## Usage
