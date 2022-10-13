@@ -16,7 +16,7 @@ matplotlib == 2.1.1
 # bert/run_classifier.py: 29
 # bert/test.py: 8
 # fasttext/printcm.py: 1
-numpy == 1.13.3
+numpy == 1.22.0
 
 # bert/run_classifier.py: 34,35,36,37
 # bert/test.py: 13,14,15,16
