@@ -27,7 +27,7 @@ pytorch_pretrained_bert == 0.6.2
 # fasttext/printcm.py: 4,5,6
 # fasttext/test.py: 3,4
 # fasttext/train.py: 3,4
-scikit_learn == 0.20.2
+scikit_learn == 1.5.0
 
 # bert/test.py: 19
 # fasttext/preprocess.py: 6
