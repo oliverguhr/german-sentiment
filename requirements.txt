@@ -42,4 +42,4 @@ torch == 2.2.0
 # bert/run_classifier.py: 27
 # bert/test.py: 18
 # fasttext/textcleaner.py: 7
-tqdm == 4.29.1
+tqdm == 4.66.3
