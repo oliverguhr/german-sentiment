@@ -105,7 +105,7 @@ python3 -m venv ./venv
 source venv/bin/activate
 ```
 
-Make sure that you are using a recent python version by running "python -V ". You should at least run Python 3.6.
+Make sure that you are using a recent python version by running "python -V ". You should at least run Python 3.11.
 
 ```bash
 python -V
