@@ -1,18 +1,15 @@
 # models
-wget https://zenodo.org/record/3693810/files/models.zip?download=1
-mv models.zip?download=1  models.zip
+wget --limit-rate=5m -O models.zip https://zenodo.org/record/3693810/files/models.zip?download=1
 unzip models.zip -d ./models
 rm models.zip
 
 #unmodifyed data
-wget https://zenodo.org/record/3693810/files/sentiment-data-reviews-and-neutral.zip?download=1
-mv sentiment-data-reviews-and-neutral.zip?download=1 sentiment-data-reviews-and-neutral.zip
+wget --limit-rate=5m -O sentiment-data-reviews-and-neutral.zip https://zenodo.org/record/3693810/files/sentiment-data-reviews-and-neutral.zip?download=1
 unzip sentiment-data-reviews-and-neutral.zip -d ./source-data
 rm sentiment-data-reviews-and-neutral.zip
 
 #training data
-wget https://zenodo.org/record/3693810/files/no-scare-balanced.zip?download=1 
-mv  no-scare-balanced.zip?download=1  no-scare-balanced.zip 
+wget --limit-rate=5m -O no-scare-balanced.zip https://zenodo.org/record/3693810/files/no-scare-balanced.zip?download=1
 unzip no-scare-balanced.zip -d ./training-data
 rm no-scare-balanced.zip
 
