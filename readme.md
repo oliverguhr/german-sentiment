@@ -105,17 +105,17 @@ python3 -m venv ./venv
 source venv/bin/activate
 ```
 
-Make sure that you are using a recent python version by running "python -V ". You should at least run Python 3.6.
+Make sure that you are using a recent python version by running "python -V ". You should at least run Python 3.11.
 
 ```bash
 python -V
-> Python 3.6.8
+> Python 3.11.0
 ```
 
 Next, install the needed python packages.
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-3.11.txt
 ```
 
 In order to reproduce the results, you need to download our models and data. We provide a script that downloads all required packages:
