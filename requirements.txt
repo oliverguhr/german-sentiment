@@ -37,7 +37,7 @@ tabulate == 0.8.2
 
 # bert/run_classifier.py: 31,32
 # bert/test.py: 6
-torch == 2.2.0
+torch == 2.6.0
 
 # bert/run_classifier.py: 27
 # bert/test.py: 18
